@@ -1,0 +1,12 @@
+# Average N_H (total, incl. ISM) in the hard state vs orbital phase, digitized from Grinberg et al. (2015, A&A 576, A117), Fig. 6 left (red histogram, bins of 0.1). nH in 1e22 cm^-2. Digitization uncertainty ~0.05.
+phase,nH
+0.05,2.17
+0.15,1.66
+0.25,1.21
+0.35,1.13
+0.45,0.91
+0.55,0.92
+0.65,0.91
+0.75,1.16
+0.85,1.47
+0.95,1.95
